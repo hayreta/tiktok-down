@@ -14,7 +14,7 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot Bot Token, get this value from @BotFather.",
-      "value": ""
+      "value": "8324405561:AAGkMG4qoU_8nTYWVE5nn7avTaY8bHkkKdI"
     },
     "API_KEY": {
       "description": "Your APP API KEY, get this from https://my.telegram.org",
